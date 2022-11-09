@@ -3,6 +3,7 @@
 ## News
 * Oct 25, 2022: Due date for Exercise 1 is extended and initialization guide is added.
 * Nov 1, 2022: Due date for Exercise 1 is extended and the source code for the next session is added.
+* Some test files where added for demo.
 
 ## How-to
 * [Initialization and getting started](https://github.com/alishakiba/data-mining-fall-2022/blob/master/HOWTO.md)
